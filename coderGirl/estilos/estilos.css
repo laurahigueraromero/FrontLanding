@@ -1,0 +1,17 @@
+body {
+  background-image: url(https://images.unsplash.com/photo-1677029907981-e9a44fb7409a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGZvbmRvJTIwZGUlMjBwYW50YWxsYSUyMGRlbCUyMHVuaXZlcnNvfGVufDB8fDB8fHww);
+}
+
+.name {
+  color: deeppink;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
+}
+h1 {
+  display: flex;
+  background-color: rgba(255, 182, 193, 0.3);
+}
+.name {
+  font-size: 200%;
+  margin-left: 25%;
+}
+
